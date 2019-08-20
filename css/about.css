@@ -1,0 +1,78 @@
+.aboutSection
+{
+    margin-top: 100px;
+    margin-bottom: 100px
+}
+.main {
+    display: flex ; 
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100% ;   
+    padding-top: 30px ; 
+    color: #999;
+    margin-bottom: 4px;
+    padding-bottom: 30px ;
+    -webkit-box-shadow:2px 2px 10px #333;
+    -moz-box-shadow:2px 2px 10px #333;
+    -o-box-shadow:2px 2px 10px #333;
+    box-shadow:2px 2px 10px #333
+}
+.Img
+{
+    width: 500px ; 
+    margin-top:20px
+}
+
+.content
+{
+    width:500px ; 
+    margin-left: 10px;
+    font-size: 16px ;
+    letter-spacing: 1px; 
+    margin-right: 30px
+}
+
+span
+{
+    color: #5a2360 ; 
+    font-weight:bolder; 
+}
+.bt {
+    display: inline-block;
+    color: #fff;
+    padding: 10px 25px;
+    text-transform: capitalize;
+    font-size: 14px;
+    border: 1px solid #207FDC;
+    background: #207FDC;
+    border-radius: 30px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding: 9px 55px !important;
+    margin-top: 20px;
+    transition: all 1s;
+}
+
+.bt:hover {
+    background: #FFF;
+    color: #fff;
+    border: 1px solid #207FDC;
+    -webkit-transition: .3s;
+    
+}
+.Xcontent
+{
+ margin-left: 30px   
+}
+.img-rounded {
+    border-radius: 6px;
+}
+
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    box-shadow: 2px 2px 10px #333 , -2px -2px 10px #333;
+
+}
