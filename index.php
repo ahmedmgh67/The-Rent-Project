@@ -105,7 +105,7 @@
             <div class="sliderContent ">
 				<div class="text-center">
                     <div class="home_subtitle">THE RENT</div>
-                    <div class="home_title">Amazing Services & Facilities</div>
+                    <div class="home_title">DPLYR Services & Facilities</div>
                     <a href="form.php" class="button_container home_button"><div class="button text-center"><span>تــسجــيل الــدخـول</span></div></a>
 				</div>
             </div>
